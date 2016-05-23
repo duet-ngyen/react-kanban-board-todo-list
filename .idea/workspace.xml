@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="02a9a274-d8ec-4c69-b739-e55b74f3a86a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="react-app-boilerplate-master.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -209,7 +208,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23511000" />
+    <option name="totallyTimeSpent" value="23608000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="747" y="24" width="1163" height="1056" extended-state="4" />
@@ -245,6 +244,39 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/npm-debug.log" />
+    <entry file="file://$PROJECT_DIR$/LICENSE" />
+    <entry file="file://$PROJECT_DIR$/app/test.js.jsx" />
+    <entry file="file://$PROJECT_DIR$/public/bundle.js" />
+    <entry file="file://$PROJECT_DIR$/webpack.config.js" />
+    <entry file="file://$PROJECT_DIR$/bower_components/react-text-filter/index.js" />
+    <entry file="file://$PROJECT_DIR$/bower_components/react-text-filter/.bower.json" />
+    <entry file="file://$PROJECT_DIR$/bower.json" />
+    <entry file="file://$PROJECT_DIR$/public/index.html" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/app/Search.js" />
+    <entry file="file://$PROJECT_DIR$/app/List.js" />
+    <entry file="file://$PROJECT_DIR$/app/Card.js" />
+    <entry file="file://$PROJECT_DIR$/public/styles.css" />
+    <entry file="file://$PROJECT_DIR$/app/CheckList.js" />
+    <entry file="file://$PROJECT_DIR$/app/App.js" />
+    <entry file="file://$PROJECT_DIR$/app/KanbanBoard.js" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
