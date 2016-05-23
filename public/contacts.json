@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "name": "Cassio Zed",
+    "email": "cassiozen@gmail.com"
+  },
+
+  {
+    "id": 2,
+    "name": "Dan Abramov",
+    "email": "dan_abramov@gmail.com"
+  },
+
+  {
+    "id": 3,
+    "name": "Pete Hunt",
+    "email": "pete_hunt@gmail.com"
+  }
+]
